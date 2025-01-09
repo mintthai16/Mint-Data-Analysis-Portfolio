@@ -1,1 +1,1 @@
-# Mint-Data-Analysis-Portfolio
+# Mint Thai - Data Analysis Portfolio
